@@ -1,0 +1,15 @@
+C:\Users\TarkovPlayer\source\repos\Coder-Decoder by Decl1ne\Coder-Decoder by Decl1ne\bin\Debug\net6.0\Coder-Decoder by Decl1ne.exe
+C:\Users\TarkovPlayer\source\repos\Coder-Decoder by Decl1ne\Coder-Decoder by Decl1ne\bin\Debug\net6.0\Coder-Decoder by Decl1ne.deps.json
+C:\Users\TarkovPlayer\source\repos\Coder-Decoder by Decl1ne\Coder-Decoder by Decl1ne\bin\Debug\net6.0\Coder-Decoder by Decl1ne.runtimeconfig.json
+C:\Users\TarkovPlayer\source\repos\Coder-Decoder by Decl1ne\Coder-Decoder by Decl1ne\bin\Debug\net6.0\Coder-Decoder by Decl1ne.dll
+C:\Users\TarkovPlayer\source\repos\Coder-Decoder by Decl1ne\Coder-Decoder by Decl1ne\bin\Debug\net6.0\ref\Coder-Decoder by Decl1ne.dll
+C:\Users\TarkovPlayer\source\repos\Coder-Decoder by Decl1ne\Coder-Decoder by Decl1ne\bin\Debug\net6.0\Coder-Decoder by Decl1ne.pdb
+C:\Users\TarkovPlayer\source\repos\Coder-Decoder by Decl1ne\Coder-Decoder by Decl1ne\obj\Debug\net6.0\Coder-Decoder by Decl1ne.csproj.AssemblyReference.cache
+C:\Users\TarkovPlayer\source\repos\Coder-Decoder by Decl1ne\Coder-Decoder by Decl1ne\obj\Debug\net6.0\Coder-Decoder by Decl1ne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TarkovPlayer\source\repos\Coder-Decoder by Decl1ne\Coder-Decoder by Decl1ne\obj\Debug\net6.0\Coder-Decoder by Decl1ne.AssemblyInfoInputs.cache
+C:\Users\TarkovPlayer\source\repos\Coder-Decoder by Decl1ne\Coder-Decoder by Decl1ne\obj\Debug\net6.0\Coder-Decoder by Decl1ne.AssemblyInfo.cs
+C:\Users\TarkovPlayer\source\repos\Coder-Decoder by Decl1ne\Coder-Decoder by Decl1ne\obj\Debug\net6.0\Coder-Decoder by Decl1ne.csproj.CoreCompileInputs.cache
+C:\Users\TarkovPlayer\source\repos\Coder-Decoder by Decl1ne\Coder-Decoder by Decl1ne\obj\Debug\net6.0\Coder-Decoder by Decl1ne.dll
+C:\Users\TarkovPlayer\source\repos\Coder-Decoder by Decl1ne\Coder-Decoder by Decl1ne\obj\Debug\net6.0\ref\Coder-Decoder by Decl1ne.dll
+C:\Users\TarkovPlayer\source\repos\Coder-Decoder by Decl1ne\Coder-Decoder by Decl1ne\obj\Debug\net6.0\Coder-Decoder by Decl1ne.pdb
+C:\Users\TarkovPlayer\source\repos\Coder-Decoder by Decl1ne\Coder-Decoder by Decl1ne\obj\Debug\net6.0\Coder-Decoder by Decl1ne.genruntimeconfig.cache
