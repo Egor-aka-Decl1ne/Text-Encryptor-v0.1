@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\TarkovPlayer\\source\\repos\\Coder-Decoder by Decl1ne\\Coder-Decoder by Decl1ne\\Coder-Decoder by Decl1ne.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\TarkovPlayer\\source\\repos\\Coder-Decoder by Decl1ne\\Coder-Decoder by Decl1ne\\Coder-Decoder by Decl1ne.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TarkovPlayer\\source\\repos\\Coder-Decoder by Decl1ne\\Coder-Decoder by Decl1ne\\Coder-Decoder by Decl1ne.csproj",
+        "projectName": "Coder-Decoder by Decl1ne",
+        "projectPath": "C:\\Users\\TarkovPlayer\\source\\repos\\Coder-Decoder by Decl1ne\\Coder-Decoder by Decl1ne\\Coder-Decoder by Decl1ne.csproj",
+        "packagesPath": "C:\\Users\\TarkovPlayer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TarkovPlayer\\source\\repos\\Coder-Decoder by Decl1ne\\Coder-Decoder by Decl1ne\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\sgfdsfg\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TarkovPlayer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
